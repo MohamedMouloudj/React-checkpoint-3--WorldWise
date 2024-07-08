@@ -1,6 +1,8 @@
 # World Wise
 
 This app allows you to explore cities and mark the ones you have visited
+(Note: the only available user to login is hardcoded by me 😅, it's just test for login mechanism in web dev, email: `user@example.com`  password: `qwerty`)
+
 
 ## Purpose
 
