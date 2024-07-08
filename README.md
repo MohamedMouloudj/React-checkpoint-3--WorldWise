@@ -1,8 +1,27 @@
-# React + Vite
+# World Wise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app allows you to explore cities and mark the ones you have visited
 
-Currently, two official plugins are available:
+## Purpose
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The purpose of this app is learn and practice react-router, react-context, practice optimization,and practice previously learned stuff.
+
+## Technologies
+
+- React js
+- leaflet
+- css modules
+- Vite
+
+## How to run locally 
+
+```bash
+  git clone <URL of this project>
+  cd React-checkpoint-3--WorldWise
+  npm install
+  npm run server
+  npm run dev
+```
+### Contact
+
+Feel free to contact me if you have idea of project you want to realise, you can reach me at mouloudj.mohamed.04@gmail.com or mouloudy656565@gmail.com
